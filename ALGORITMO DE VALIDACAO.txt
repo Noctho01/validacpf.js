@@ -1,0 +1,24 @@
+***.***.***-**
+abc.def.ghi-jk
+
+>>> VALIDANDO O PRIMEIRO DIGITO (j) <<<
+
+x = a*10 + b*9 + c*8 + d*7 + e*6 + f*5 + g*4 + h*3 + i*2
+
+y0 = x*10
+
+y1 = y0 / 11
+
+y2 = y0 - y1*11
+
+se y2 == j = true
+
+>>> VALIDANDO O SEGUNDO DIGITO (K) <<<
+
+x1 = a*11 + b*10 + c*9 + d*8 + e*7 + f*6 + g*5 + h*4 + i*3 + j*2
+
+y0 = x1*10
+y1 = y0* / 11
+y2 = y0 - y1*11
+
+se y2 == k = true
