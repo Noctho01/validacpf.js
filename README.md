@@ -4,7 +4,9 @@
 Projeto simples(bem simples) usando o algoritmo de calculo de validacao de CPF distribuido pelo
 [Ministerio da Fazenda](https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPublica.asp)
 
-> [Algoritmo para Validar CPF](https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf)
+- [Algoritmo para Validar CPF](https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf)
+
+
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png"></a>
 
