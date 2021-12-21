@@ -1,15 +1,17 @@
 {
   "name": "validacpf",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Projeto simples (bem simples) usando o algoritmo de cálculo de validação do CPF distribuído pelo Ministério da Fazenda",
+  "main": "validacpf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mathjs": "^10.0.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noctho01/validacpf.js"
+  },
+  "keywords": ["validacao", "valida", "cpf"],
+  "author": "Vinicius Dos Santos Rodrigues",
+  "license": "MIT",
+  "dependencies": {}
 }
