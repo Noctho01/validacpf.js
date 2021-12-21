@@ -46,4 +46,4 @@ class ValidaCpf {
     }
 }
 
-module.exports = ValidaCpf;
+module.exports = new ValidaCpf();
