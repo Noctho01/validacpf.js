@@ -6,6 +6,21 @@ Projeto simples(bem simples) usando o algoritmo de calculo de validacao de CPF d
 
 - [Algoritmo para Validar CPF](https://dicasdeprogramacao.com.br/algoritmo-para-validar-cpf)
 
+## Usando o ValidaCpf.js:
+- Adicione validacpf em 'remote':
+`git remote add validacpf https://github.com/Noctho01/validacpf.js.git`
+
+- De um 'pull' no repositorio:
+`git pull validacpf master`
+
+- Usando validacpf:
+`const validaCpf = require('validacpf');`
+` `
+`const cpf = "000.000.000-00";`
+`const resultado = validaCpf.validar(cpf);`
+`console.log(resultado) // true or false`
+
+
 
 
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png"></a>
