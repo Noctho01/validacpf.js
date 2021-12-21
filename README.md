@@ -19,7 +19,7 @@ git pull validacpf master
 
 - Usando validacpf:
 ```js
-const validaCpf = require('validacpf');
+const validaCpf = require('./validacpf');
 
 const cpf = "000.000.000-00";
 const resultado = validaCpf.validar(cpf);
